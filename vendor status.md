@@ -92,12 +92,6 @@ The vendor described a complete workflow beginning with workspace preparation. O
 
 ---
 
-## Opti
-
-**🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community**
-
----
-
 ## Defiant
 
 **🟢 So far no critical errors found by members**
@@ -106,24 +100,31 @@ Good sterilization method, full detailed brewing process. equipment is missing, 
 
 ---
 
+## Mad labs
+
+ **🟡Members found critical errors, efforts to improve made by vendor**
+
+** Decent sterilizing proccess. Members found critical errors with his silicone tubings, his class n autoclave and the use of distilled water with no depyrogentation control in his sterilization proccess is concering and he stopped the vetting here and there is no signs of improving**
+
+---
+
 ## Oep labs
 
-**⚪ awaiting answer**
+**🟠Members found critical errors, no effort by vendor to improve**
 
 Decent sterilizing proccess. Members found critical errors with his silicone tubings, his class n autoclave and the use of distilled water with no depyrogentation control in his sterilization proccess is concering and he stopped the vetting here and there is no signs of improving
 
 ---
 
-## Mad labs
+## Opti
 
-**⚪ awaiting answer**
-
+**🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community**
 ---
+
 
 ## Aqua
 
-**⚪ awaiting answer**
-
+ **🔴Failed vetting, dosent wanna answer, no effort by the vendor to work with the community**
 ---
 
 ## Whiteclaw
