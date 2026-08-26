@@ -47,13 +47,14 @@
 
 | Vendor | Status |
 |---|---|
-| Stanford pharma | 🟠 Members found critical errors, no effort by vendor to improve |
 | Neo anabolics | 🟢 So far no critical errors found by members |
-| Opti | 🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community |
 | Defiant | 🟢 So far no critical errors found by members |
-| Oep labs | ⚪ awaiting answer |
-| Mad labs | ⚪ awaiting answer |
-| Aqua | ⚪ awaiting answer |
+| Mad labs | 🟢 So far no critical errors found by members |
+
+| Stanford pharma | 🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community |
+| Opti | 🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community |
+| Oep labs | 🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community |
+| Aqua | 🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community |
 | Whiteclaw | 🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community |
 | Nexus pharma | 🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community |
 | Arail | 🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community |
@@ -65,9 +66,21 @@
 
 ## Stanford pharma
 
-**🟠 Members found critical errors, no effort by vendor to improve**
+**🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community**
 
-Good process, so far, some missing details on cleaning and transport and equipment but he does not wanna answer my questions as he claims everything has been answered. What i could find have been linked
+Good process, so far, some missing details on cleaning and transport and equipment but he does not wanna answer my questions as he claims everything has been answered. What i could find have been linked and its very concering a vendor can have this much ego because of seniority when there is some concering finds
+
+he does not know what a flow hood does and claims his room is a flow hood
+https://thinksteroids.com/community/posts/3349559/
+https://www.youtube.com/watch?v=Q6qfZ2RR54Q
+
+he dosent test his raws(high chances of bunk product being sold and its a risk since he isnt testing)
+
+https://thinksteroids.com/community/posts/3895002/
+
+neither the finished oil
+
+https://thinksteroids.com/community/posts/3895042/
 
 ---
 
@@ -96,23 +109,31 @@ The vendor described a complete workflow beginning with workspace preparation. O
 
 **🟢 So far no critical errors found by members**
 
-Good sterilization method, full detailed brewing process. equipment is missing, lab pictures is missing.
+Good sterilization method, full detailed brewing process, good aspetic workflow. equipment is missing, lab pictures is missing.
 
 ---
 
 ## Mad labs
 
- **🟡Members found critical errors, efforts to improve made by vendor**
+ **🟢 So far no critical errors found by members**
 
-** Decent sterilizing proccess. Members found critical errors with his silicone tubings, his class n autoclave and the use of distilled water with no depyrogentation control in his sterilization proccess is concering and he stopped the vetting here and there is no signs of improving**
+** Decent sterilizing proccess. Members found critical errors with his silicone tubings, his class n autoclave and the use of distilled water with no depyrogentation control in his sterilization proccess is concering and he stopped the vetting here and there is signs of improving and the vendor is working with the community**
 
 ---
 
 ## Oep labs
 
-**🟠Members found critical errors, no effort by vendor to improve**
+**🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community**
 
 Decent sterilizing proccess. Members found critical errors with his silicone tubings, his class n autoclave and the use of distilled water with no depyrogentation control in his sterilization proccess is concering and he stopped the vetting here and there is no signs of improving
+
+members concerned servere issues with his bottletop filters and we have plenty of info and testing on this forum to show Bottle top filters are made of polystyrene and will leach plastics into the oils. problem with bottle top filters is, how do you fill your vials after. which also adds a airbone contaimination to the whole aspetic flow.
+
+
+[View source](https://thinksteroids.com/community/posts/3652483/)
+[View source](https://thinksteroids.com/community/threads/us-primal-gear-found-with-dissolved-brewing-equipment-plastic.134432469/)
+
+another problem has been found where he drilled holes into the cap to put the drain pipes through. Problem is he has been doing this with unsterile drain pipes all along
 
 ---
 
@@ -196,6 +217,12 @@ still trying to reach a hand out to him. evidence has been presented.
 
 [Source 3](https://thinksteroids.com/community/threads/stanford-pharma-public-sale-10-24-21.134407261/page-426#post-3180449)
 
+[Source 4](https://thinksteroids.com/community/posts/3349559/)
+
+[Source 5](https://thinksteroids.com/community/posts/3895002/)
+
+[Source 6](https://thinksteroids.com/community/posts/3895042/)
+
 </details>
 
 <details>
@@ -226,6 +253,18 @@ still trying to reach a hand out to him. evidence has been presented.
 [Source 3](https://thinksteroids.com/community/threads/oep-labs-domestic.134431512/page-517#post-3887351)
 
 [Source 4](https://thinksteroids.com/community/threads/oep-labs-domestic.134431512/page-518#post-3887399)
+
+[Source 5](https://thinksteroids.com/community/posts/3652483/)
+
+[Source 6](https://thinksteroids.com/community/threads/us-primal-gear-found-with-dissolved-brewing-equipment-plastic.134432469/)
+
+[Source 7](https://thinksteroids.com/community/posts/3886204/)
+
+[Source 8](https://thinksteroids.com/community/posts/3617127/)
+
+[Source 9](https://thinksteroids.com/community/posts/3890543/)
+
+[Source 10](https://thinksteroids.com/community/posts/3890546/)
 
 </details>
 
