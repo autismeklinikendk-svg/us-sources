@@ -50,7 +50,6 @@
 | Neo anabolics | 🟢 So far no critical errors found by members |
 | Defiant | 🟢 So far no critical errors found by members |
 | Mad labs | 🟢 So far no critical errors found by members |
-
 | Stanford pharma | 🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community |
 | Opti | 🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community |
 | Oep labs | 🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community |
