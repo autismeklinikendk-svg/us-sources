@@ -158,7 +158,7 @@ another problem has been found where he drilled holes into the cap to put the dr
 **🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community**
 
 ## Addendum Nexus Pharma
-While Nexus Pharma is not answering questions now, there has been previous vetting of Nexus Pharma which left a lot of questions unanswered and many inconsistent replies. This vendor also shows consistent patters in their behaviour of deflecting questions, accusing members who vet him to be competing sources in disguise, and tries to paint himself the victim being put under exceptional scrutiny that no other source ever has been subject to.
+While Nexus Pharma is not answering questions now, there has been previous vetting of Nexus Pharma which left a lot of questions unanswered and many inconsistent replies. Nexus has also repeatedly shown to change his methods/procedures after realizing he gave wrong answers. This vendor also shows consistent patters in their behaviour of deflecting questions, accusing members who vet him to be competing sources in disguise, and tries to paint himself the victim being put under exceptional scrutiny that no other source ever has been subject to.
 
 https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/#post-3766496
 In this post, Nexus tells us they do not test raws, only finished oil. This makes it difficult to know what quality raws are used and whether they are brewing it themselves. It also makes it difficult to understand how they manage to hit the desired target on the finished oil, how they hold their own raws source accountable, and how they ensure they have the correct raws.
