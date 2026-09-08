@@ -187,6 +187,14 @@ reflecting questions with useless info
 dosent wanna get into any brewing talk at all, busted for selling chinese relabeled gear before.  
 still trying to reach a hand out to him. evidence has been presented.
 
+## Addendum Primal Pharma
+While Primal Pharma is not answering questions now, there has been a thorough investigation of Primal Pharma done by a former member of the forum:
+https://thinksteroids.com/community/threads/primal-pharma-beware-underdosed-lies-contamination-resells-china-gear.134436587/
+Primal Pharma has been found to (1) constantly lie, (2) sell contaminated, (3) under-dosed products (4) ships different vials from Jano testing, and (5) resell Chinese gear as USdom.
+Regarding plastics leaching into the oil, said former member made the conclusion that it is most likely due to Bottle-top filters being used with solutions containing higher amounts of Benzyl Benzoate:
+https://thinksteroids.com/community/threads/us-primal-gear-found-with-dissolved-brewing-equipment-plastic.134432469/
+
+
 ---
 
 # Evidence
