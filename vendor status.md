@@ -157,6 +157,81 @@ another problem has been found where he drilled holes into the cap to put the dr
 
 **🔴 Failed vetting, dosent wanna answer, no effort by the vendor to work with the community**
 
+## Addendum Nexus Pharma
+While Nexus Pharma is not answering questions now, there has been previous vetting of Nexus Pharma which left a lot of questions unanswered and many inconsistent replies. This vendor also shows consistent patters in their behaviour of deflecting questions, accusing members who vet him to be competing sources in disguise, and tries to paint himself the victim being put under exceptional scrutiny that no other source ever has been subject to.
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/#post-3766496
+In this post, Nexus tells us they do not test raws, only finished oil. This makes it difficult to know what quality raws are used and whether they are brewing it themselves. It also makes it difficult to understand how they manage to hit the desired target on the finished oil, how they hold their own raws source accountable, and how they ensure they have the correct raws.
+Example:
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-6#post-3769722
+"Assumes" purity of 92% like if he can eyeball 92% specifically by looking at the powder, then fails completely in hitting target.
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-9#post-3772077
+Ducks questions about filters
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-9#post-3772145
+Nexus Pharma only sanitizes the apparatus and tubing used to dispense oils into vials, far from safe practice (read: https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html#cdc_generic_section_1-alcohol)
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-16#post-3781213
+Later, Nexus changes his process and claims they use Peracetic Acid and dry heat to sterilize the dispenser.
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-21#post-3783827
+No flow hood, but look:
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-20#post-3783809
+"I perform the assembly in a restricted and sanitized clean environment (using a filtered air system to minimize particulate matter)"
+Minimizing particulate matter does not make any difference if it is not done properly, monitored, and verified that it works as intended.
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-23#post-3785851
+Claims to filter with "Bottle top filters. Whatman zapcap 0.22"
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-23#post-3786175
+Responds that "I find it a little offensive to my intelligence to be asked what a ..." when he just ducked a question to specify which particular vial machine and which type of membrane his filters have. Repeated use of this type of psychology to avoid answering.
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-23#post-3786237
+When in reality, the filters he mentioned at those specific pore sizes and membrane types do not come sterile.
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-24#post-3786279
+Answers that they "sterilize" the bottle-top filter with peracetic acid.
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-24#post-3786435
+Unfortunately, member Photon caught him here, as Nexus claimed "Whatman zapcap 0.22" and later "Oil based I use 0.22um ptfe". There are no Whatman ZapCap filters with PTFE membrane and 0.22 micron pore size, only 0.45 micron.
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-25#post-3786458
+His answer to this was a list of membrane discs and membrane holders, which is retarded, because he explicitly said he used a specific brand and model of a bottle top filter.
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-25#post-3786464
+He also makes a strange comment that "you can easily tell if a membrane is compromised or if it isn't filtering correctly just by looking at the process". This statement has no basis and does not even come close to the methods described in e.g. manufacturers descriptions of a bubble-point test for filters or any other validation method of filters.
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/#post-3766804
+Refuses lab pics
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-8#post-3771311
+Posts a few "lab" pics but nothing to show for in regards to sterility, environmental control and monitoring, filtration, transfer procedures et.c. 
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-16#post-3781213
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-17#post-3782719
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-19#post-3782959
+Accuses members vetting him to be competing sources with zero evidence.
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-17#post-3782557 
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-18#post-3782735
+Deflects questions, avoids answering when in trouble and attacks the members vetting.
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-19#post-3783073
+Instead of addressing concerns, claims vetting members are "spreading fear".
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-20#post-3783816
+Tries to create the narrative that Nexus is put under exceptional scrutiny, when it takes pages and pages to get a clear answer to basic questions.
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-26#post-3786655
+Backpedals from his original statement and now claims he assembles his own filters. Assembling your own filters is an extremely risky procedure, especially when you don't have the tools to perform validating tests to ensure it does what it is supposed to do. In his context where he does not even have environmental control for airborne contamination, chances are his oils are not sterile both in the case of using bottle top filters, and in the case of assembling his own filtration assembly.
+
+https://thinksteroids.com/community/threads/nexus-pharma-us-domestic-fully-labtested.134439190/page-73#post-3819594
+This is the worst that can happen to a source; the Administrator banned a member who appeared and made a total of 58 posts, 56 of them being a sycophant for Nexus Pharma;
+* Privately contacting members about NEXUS orders, shipping, and communication outside Underground
+* Acting as an intermediary for customer order concerns
+* Reassuring customers and minimizing concerns
+* Explaining source operational procedures to buyers
+* Defending the source and attacking critics
+* Repeatedly discouraging scrutiny and criticism of the source
+* Openly acknowledging emotional investment in the source succeeding
+In Nexus Pharma's case, in the case that he had no ties to this member, he should have known to tell the member to let him answer for himself. However he doubled down and disagreed with the Administrator which made him look even worse.
+
+
+
 ---
 
 ## Arail
